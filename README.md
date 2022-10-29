@@ -16,7 +16,7 @@ This project aims to create a platform for help solicitations (such as to fix br
 - React Native SVG Transformer
 - Expo Google Fonts
 
-### App Walk-though
+### App Walk-through 
 <div style="display: inline-block">
     <img src="./src/screenshot1.png" alt="App Screenshot 1">
     <img src="./src/screenshot2.png" alt="App Screenshot 2">
