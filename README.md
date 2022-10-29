@@ -18,8 +18,8 @@ This project aims to create a platform for help solicitations (such as to fix br
 
 ### App Walk-though
 <div style="display: inline-block">
-    <img src="./src/images/screenshot1.png" alt="App Screenshot 1">
-    <img src="./src/images/screenshot2.png" alt="App Screenshot 2">
+    <img src="./src/screenshot1.png" alt="App Screenshot 1">
+    <img src="./src/screenshot2.png" alt="App Screenshot 2">
 </div>
 
 
